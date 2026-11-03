@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+.venv/
+env/
+venv/
+
+# Raw and Processed Bags folders
+# Keeps the folder structures in git via .gitkeep, but ignores uploaded raw photos and output results
+raw_bags/*
+!raw_bags/.gitkeep
+processed_bags/*
+!processed_bags/.gitkeep
+
+# Operating System & Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

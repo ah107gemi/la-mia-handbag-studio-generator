@@ -1,0 +1,9 @@
+{
+  "prompt": "A high-end luxury leather handbag resting on a sleek, minimalist dark slate podium. The background is a moody, elegant studio setting with deep navy and charcoal tones, featuring subtle, out-of-focus champagne gold geometric accents in the distance. The lighting is cinematic and editorial: warm champagne studio spotlights shining down to highlight the rich texture and stitching of the leather, casting soft, dramatic shadows beneath the bag to create depth. Shot on an 85mm macro lens, photorealistic, 8k resolution, perfectly capturing a premium Italian artisanal brand aesthetic.",
+  "negative_prompt": "people, hands, text, logos, cluttered background, bright colors, outdoor, different podium, wood, marble, floating, distorted shadows",
+  "seed": 42,
+  "placement": {
+    "padding": 0.1,
+    "alignment": "center"
+  }
+}
